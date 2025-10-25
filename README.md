@@ -33,7 +33,7 @@ The firmware is separated into 4 layers:
 
 ### Cloning this repository
 
-Run `git clone https://github.com/prusa3d/Prusa-Firmware-MMU.git`.
+Run `git clone https://github.com/hozeler/Prusa-Firmware-MMU.git`.
 
 ### How to prepare build env and tools
 Run `./utils/bootstrap.py`
